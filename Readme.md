@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vittoriocava1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vittorio-cava-a22154196/]((https://www.linkedin.com/in/vittorio-cava/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/vittorio-cava-a22154196/](https://www.linkedin.com/in/vittorio-cava/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
