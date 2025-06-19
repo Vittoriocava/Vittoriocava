@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vittoriocava&show_icons=true&locale=en" alt="vittoriocava" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vittoriocava&" alt="vittoriocava" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vittoriocava&show_icons=true&locale=en" alt="vittoriocava" /></p>
