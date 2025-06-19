@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vittoriocava" alt="vittoriocava" /></a> </p>
 
-- 🔭 I’m currently working on [SLAM/Sensor fusion for Fast Charge Formula student Team (PRIVATE)]((Private))
+- 🔭 I’m currently working on [SLAM/Sensor fusion for Fast Charge Formula student Team (PRIVATE)]
 
 - 🔭 A CUDA application for camera processing, including Optical Flow and Edge Detector [CUDA_Camera_Capture_and_Processing](https://github.com/Vittoriocava/CUDA_Camera_Capture_and_Processing)
 
